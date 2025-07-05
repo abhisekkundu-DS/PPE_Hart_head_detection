@@ -1,0 +1,6 @@
+train: /content/ppe-detection/data/test/images
+val: /content/ppe-detection/data/val/images
+test: /content/ppe-detection/data/test
+
+nc: 2
+names: ['mask','Hard Hat']
